@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979282437945",
+    "firebase_url": "https://rentmaster-87289-default-rtdb.firebaseio.com",
+    "project_id": "rentmaster-87289",
+    "storage_bucket": "rentmaster-87289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979282437945:android:0aaa855939ab7fcd51aae8",
+        "android_client_info": {
+          "package_name": "com.example.rent_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979282437945-53ark45q7buf3dfforcvsts6ueur5btc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHveslKQMhBXqF479R75ppnmxqcUTRpvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979282437945-53ark45q7buf3dfforcvsts6ueur5btc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
